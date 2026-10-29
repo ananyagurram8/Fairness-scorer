@@ -1,0 +1,9 @@
+fastapi==0.141.1
+uvicorn[standard]==0.52.0
+pandas==3.0.5
+numpy==2.5.2
+SQLAlchemy==2.0.51
+psycopg[binary]==3.3.4
+pydantic-settings==2.15.0
+cachetools==7.2.0
+prometheus-fastapi-instrumentator==8.1.0

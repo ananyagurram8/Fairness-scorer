@@ -1,0 +1,8 @@
+# Local settings and any copies of them (backups, per-machine variants); the template stays tracked
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
